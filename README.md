@@ -3,8 +3,6 @@
 ## 📌 Descripción
 Este proyecto es un bot desarrollado en RocketBot que automatiza la extracción de datos de la plataforma **Binance**. El bot navega por la web, obtiene información sobre criptomonedas y la guarda en un archivo de Excel para su posterior análisis.
 
-![Flujo del bot](https://via.placeholder.com/800x400.png?text=Diagrama+de+Flujo)
-
 ---
 
 ## 🔄 Flujo de Ejecución
